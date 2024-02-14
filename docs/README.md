@@ -10,8 +10,9 @@ Since BSGE is phasing out its computer science course, we want to create a club 
 
 ## Upcoming Meetings
 
-- 02/14: In-person interest meeting after school in the cafeteria
-- 02/17 & 02/19: Informal meetings @2:30 PM on Zoom.
+- 02/15: In-person interest meeting after school in the cafeteria.
+- 02/17: Informal meeting @2:30 PM on Zoom.
+- 02/19: Informal meeting @2:30 PM on Zoom.
 - 02/27: Our first real meeting! Location undetermined.
 
 *Note: You are NOT required to go to all meetings or any interest meetings to join this club.*
@@ -30,7 +31,7 @@ Along the way, we'll be putting our coding skills to practice and hopefully part
 ## Contact Us!
 Eleanor: 24fane@bsge.org <br>
 Petra: 24frinculescup@bsge.org <br>
-Jesse: <br>
-Jason: <br>
+Jesse: 24blackburnj@bsge.org<br>
+Jason: 24zhuh@bsge.org<br>
 
 *Additional resources such as code demos may be posted. To find them, press the button labelled "View on GitHub" at the top of the page.*
