@@ -29,7 +29,7 @@ Along the way, we'll be putting our coding skills to practice and hopefully part
 
 ## Contact Us!
 Eleanor: 24fane@bsge.org <br>
-Petra: <br>
+Petra: 24frinculescup@bsge.org <br>
 Jesse: <br>
 Jason: <br>
 
