@@ -15,6 +15,8 @@ Since BSGE is phasing out its computer science course, we want to create a club 
 - 02/19: Informal meeting @2:30 PM on Zoom.
 - 02/27: Our first real meeting! Location undetermined.
 
+Zoom links to be determined. We're still making sure they work.
+
 *Note: You are NOT required to go to all meetings or any interest meetings to join this club.*
 
 <br>
