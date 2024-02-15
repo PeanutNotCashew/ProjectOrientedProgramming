@@ -2,7 +2,7 @@ Project Oriented Programming is a club dedicated to learning how to program in P
 
 Since BSGE is phasing out its computer science course, we want to create a club to help educate people who want to learn how to code. We welcome people of all coding levels.
 
-> Our Google Classroom code will be emailed to all and posted here. Please use DOE emails to sign up.
+> Join our [Google Classroom](https://classroom.google.com/c/NjYzNDA1OTQ3MzM4?cjc=4ebfpu6)!
 > 
 > Regular meetings are beginning after break, on **Tuesdays**
 
