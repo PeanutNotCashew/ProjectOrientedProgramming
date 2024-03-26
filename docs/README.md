@@ -6,14 +6,6 @@ Since BSGE is phasing out its computer science course, we want to create a club 
 > 
 > Regular meetings are beginning after break, on **Tuesdays** in room 300.
 
-<br>
-
-## Upcoming Meetings
-
-- 02/17: Informal meeting @2:30 PM on Zoom. [Meeting link](https://zoom.us/j/97335155334): 195746
-- 02/19: Informal meeting @2:30 PM on Zoom. [Meeting link](https://zoom.us/j/94455612815): 232619
-- 02/27: Our first real meeting!
-
 *Note: You are NOT required to go to all meetings or any interest meetings to join this club.*
 
 <br>
