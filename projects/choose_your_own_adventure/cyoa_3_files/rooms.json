@@ -1,0 +1,27 @@
+{
+    "shack": {
+        "description": "You are in a rundown shack. There is sand tracked all over the floor. Through the singular open door, you see more sand.",
+        "actions": [
+            {
+                "description": "Go outside.",
+                "redirect": "yard",
+                "inventory": []
+            }
+        ]
+    },
+    "yard": {
+        "description": "You're outside. All you can see is sand, sand, sand for miles. There's a shack, but not much else.",
+        "actions": [
+            {
+                "description": "Go in the shack.",
+                "redirect": "shack",
+                "inventory": []
+            },
+            {
+                "description": "Pick up sand.",
+                "redirect":"yard",
+                "inventory": ["Handful of sand"]
+            }
+        ]
+    }
+}
